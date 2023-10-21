@@ -1,0 +1,9 @@
+Subject Name : b
+
+STR : 6
+CON : 13
+DEX : X1.2
+CHR : 8
+WIS : 10
+INT : 5
+SEX : X
