@@ -23,7 +23,7 @@ fn combination_main(parent1 : make_parents::Subject, parent2: make_parents::Subj
     println!("n\n{:?}", combine_parents(parent1, parent2));
 
     for x in 0..generations {
-        println!("Hello World!");
+        println!("Generation {} complete.", (x + 1).to_string());
     }
 }
 
