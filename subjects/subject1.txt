@@ -1,9 +1,9 @@
 Subject Name : a
 
-STR : 3
-CON : 1
-DEX : 2
-CHR : 4
-WIS : 1
-INT : 7
-SEX : X
+STR : 17
+CON : 17
+DEX : 10
+CHR : 14
+WIS : 3
+INT : 18
+SEX : Y
